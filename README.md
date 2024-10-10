@@ -18,9 +18,9 @@
  
 <body>
   <!-- Definimos el area del encabezado -->
-       class="header">
+</div   class="header">
       <h1> TECNICO DE COMPUTADORA E.Z  </h1>
-  
+</div>
 
   <!-- Crear el menu -->
   <div class="topnav">
