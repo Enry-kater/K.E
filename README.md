@@ -15,7 +15,7 @@
     
 	<link rel="stylesheet" type="text/css" href="css/estilo.css" /> 
 	
-  </style>
+ 
 <body>
   <!-- Definimos el area del encabezado -->
   <div class="header">
