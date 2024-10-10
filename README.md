@@ -24,7 +24,7 @@
     /* Enlaces del menu */
     .topnav a {
       float: left;
-      display: block;
+      display: ;
       color: #F2F2F2;
       text-align: center;
       padding: 14px 16px;
